@@ -73,12 +73,6 @@
   }
 }
 
-/* @layer base {
-  body {
-    @apply bg-background text-foreground;
-  }
-} */
-
 /* Custom animations for better UX */
 @keyframes fade-in {
   from {
